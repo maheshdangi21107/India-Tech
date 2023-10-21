@@ -1,0 +1,23 @@
+h1{
+    color: #0e0c0c;
+    background-color: rgb(62, 247, 247);
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 2%;
+}
+nav > a{
+    color: #f5f1f1;
+    background-color: black;
+    border: 2px solid black ;
+    border-radius: 5%;
+    font-size: 50px;
+}
+p{
+    color: #df0d0d;
+    background-color: rgb(247, 148, 62);
+        border: 2px solid rgb(11, 94, 183);
+    border-radius: 2%;
+}
+body{
+    background-color:violet ;
+}
