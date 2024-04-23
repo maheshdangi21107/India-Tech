@@ -1,2 +1,2 @@
-# India-Tech
-India Tech is Mahesh Dangi Company
+# Lavior
+Lavior is Mahesh Dangi Company
